@@ -6,6 +6,8 @@ public class addition{
         int n1 = 9;
        int result = n + n1;
        System.out.println("Addition of two numbers is"+ result);
+       System.out.println("it is master baranch");
+
 
 
 
